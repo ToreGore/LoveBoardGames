@@ -1,0 +1,62 @@
+4.096837695721544:		cmgs (collectible miniatures games)
+0.6228227467227133:		crowdfunding: kickstarter
+0.540844679421698:		components: 3-dimensional (3d)
+0.46272355669240944:		combinatorial
+0.41273622179840014:		kosmos two-player series
+0.22707106318280434:		magazine: against the odds
+0.21616453017687084:		dungeon crawler
+0.20110696232554803:		player count: wargames with solitaire rules
+0.16841373851415672:		sports: football / soccer
+0.12864825669140167:		theme: disney
+-0.0047221394724014255:		country: china
+-0.0265438403772289:		theme: tropical
+-0.28254498559650393:		tableau building
+-0.33457883998621774:		trivial pursuit
+-0.41061677050828926:		creatures: dragons
+-0.4419653587096949:		country: spain
+-0.48203293399202424:		theme: cthulhu mythos
+-0.48777906447880387:		country: greece
+-0.49226239215211315:		magazine: strategy & tactics
+-0.5070149297387841:		country: usa
+-0.5160866390798529:		ancient: rome
+-0.5480833589409855:		player count: solitaire only wargames
+-0.5693661813986073:		country: france
+-0.584813339963038:		country: japan
+-0.6233671702183684:		country: russia
+-0.6331146493476885:		creatures: zombies
+-0.6495107960567247:		theme: steampunk
+-0.6544675938663549:		animals: dogs
+-0.7463361934902601:		player count: two player only games
+-0.767648747569717:		continents: asia
+-0.7709798867500882:		theme: anime / manga
+-0.8111007545997287:		monopoly
+-0.8225545695236337:		sports: auto racing
+-0.8283915108689727:		roll-and-write
+-0.9140155716793849:		player count: games with solitaire rules
+-0.9770906290440894:		mensa select
+-0.9801389673360295:		authors: j.r.r. tolkien
+-1.0232144937205097:		creatures: ghosts
+-1.0354152714151985:		country: germany
+-1.0582160815844528:		italy)
+-1.2431830217862085:		magazine: vae victis
+-1.4276065530977187:		components: miniatures
+-1.612112980686581:		movies: star wars
+-1.8844803382364315:		crowdfunding: spieleschmiede
+-2.056395577780815:		ccgs (collectible card games)
+-2.3154154363534607:		theme: food / cooking
+-2.6543902992401773:		traditional card games: rummy
+-3.030971078735716:		books: harry potter
+-3.5688262639369013:		app required
+-3.5688262639369013:		digital hybrid
+-3.7193654365864113:		comic books: marvel universe
+-4.03612009625113:		campaign games
+-5.5913664554449305:		crowdfunding: verkami
+-5.604679712624183:		toys: lego
+-8.384088153685624:		components: dvds
+-9.039681331420132:		advanced tobruk system
+-10.757722604557586:		game trayz inside
+-14.340945959951933:		admin: unreleased games
+-37.70002645205647:		lego games series (lego)
+-55.22991019321512:		escape room games
+-99.99999999999999:		fire & movement combat system
+-100.0:		folio series (decision games)

@@ -1,0 +1,25 @@
+2.1148304956686106:		stock holding
+1.239906136264984:		trading
+1.0254082222293637:		auction/bidding
+0.4969190384788607:		commodity speculation
+0.39050117659766137:		simulation
+-0.00818380147280124:		hand management
+-0.18932732846328915:		and pool building
+-0.18932732846328915:		deck
+-0.18932732846328915:		bag
+-0.3490521608388908:		player elimination
+-0.3902083684722752:		modular board
+-0.4423119213922472:		solo / solitaire game
+-0.45695585219931495:		hexagon grid
+-0.5477003496174192:		area majority / influence
+-0.5954397664882227:		card drafting
+-0.6060509678988498:		take that
+-0.6955697112412419:		dice rolling
+-0.7398940902362576:		tile placement
+-0.8098731144471208:		cooperative game
+-0.906777613925578:		roll / spin and move
+-1.015085015442565:		grid movement
+-1.029706171477544:		set collection
+-1.21007334926351:		variable player powers
+-1.4105631750473293:		area movement
+-1.4465992173256355:		action points
